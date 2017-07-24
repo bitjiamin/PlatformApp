@@ -1,0 +1,3 @@
+([('main',
+   '/Users/jiamin/Desktop/Develop/Python/Program/TestSeq/App/dist/main',
+   'EXECUTABLE')],)

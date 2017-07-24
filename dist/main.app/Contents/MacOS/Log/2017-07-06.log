@@ -1,0 +1,66 @@
+2017-07-06 09:23:03,626 - login.py:46 - mylogger - Administrator login
+2017-07-06 09:23:25,528 - login.py:46 - mylogger - Administrator login
+2017-07-06 09:24:26,273 - login.py:46 - mylogger - Administrator login
+2017-07-06 09:25:15,731 - login.py:46 - mylogger - Administrator login
+2017-07-06 09:25:58,777 - login.py:46 - mylogger - Administrator login
+2017-07-06 10:50:40,092 - login.py:46 - mylogger - Administrator login
+2017-07-06 10:51:51,736 - login.py:46 - mylogger - Administrator login
+2017-07-06 10:52:44,356 - login.py:46 - mylogger - Administrator login
+2017-07-06 10:53:40,531 - login.py:46 - mylogger - Administrator login
+2017-07-06 10:55:33,291 - login.py:46 - mylogger - Administrator login
+2017-07-06 10:55:51,148 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:01:32,110 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:02:23,062 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:02:40,902 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:05:01,070 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:05:33,171 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:08:24,132 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:09:41,423 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:10:02,315 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:10:24,709 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:20:14,844 - login.py:46 - mylogger - Administrator login
+2017-07-06 11:29:44,286 - login.py:46 - mylogger - Administrator login
+2017-07-06 12:07:35,417 - login.py:46 - mylogger - Administrator login
+2017-07-06 12:07:48,183 - login.py:46 - mylogger - Administrator login
+2017-07-06 12:12:37,797 - login.py:46 - mylogger - Administrator login
+2017-07-06 12:13:24,287 - login.py:46 - mylogger - Administrator login
+2017-07-06 12:19:40,763 - login.py:46 - mylogger - Administrator login
+2017-07-06 13:37:02,100 - login.py:46 - mylogger - Administrator login
+2017-07-06 13:55:31,108 - login.py:46 - mylogger - Administrator login
+2017-07-06 13:56:33,430 - login.py:46 - mylogger - Administrator login
+2017-07-06 14:00:57,614 - login.py:46 - mylogger - Administrator login
+2017-07-06 14:01:26,311 - login.py:46 - mylogger - Administrator login
+2017-07-06 14:01:43,943 - login.py:46 - mylogger - Administrator login
+2017-07-06 14:03:12,029 - login.py:46 - mylogger - Administrator login
+2017-07-06 14:03:30,820 - main.py:215 - mylogger - first info message!
+2017-07-06 14:03:31,059 - main.py:215 - mylogger - Test item: function1
+2017-07-06 14:03:31,064 - main.py:215 - mylogger - Skip item: function2
+2017-07-06 14:03:31,348 - main.py:215 - mylogger - Test item: function1
+2017-07-06 14:03:31,381 - main.py:215 - mylogger - Test item: function3
+2017-07-06 14:03:31,658 - main.py:215 - mylogger - Test item: function2
+2017-07-06 14:03:31,864 - main.py:215 - mylogger - Test item: function3
+2017-07-06 14:03:31,866 - main.py:215 - mylogger - Test item: function4
+2017-07-06 14:03:31,968 - main.py:215 - mylogger - Test item: function4
+2017-07-06 14:03:32,177 - main.py:215 - mylogger - Test item: function5
+2017-07-06 14:03:32,269 - main.py:215 - mylogger - Test item: function5
+2017-07-06 14:03:32,475 - main.py:215 - mylogger - Test item: function6
+2017-07-06 14:03:32,588 - main.py:215 - mylogger - Test item: function6
+2017-07-06 14:03:32,780 - main.py:215 - mylogger - Test item: function7
+2017-07-06 14:03:32,897 - main.py:215 - mylogger - Test item: function7
+2017-07-06 14:03:33,186 - main.py:215 - mylogger - Test item: function8
+2017-07-06 14:03:33,409 - main.py:215 - mylogger - Test item: function8
+2017-07-06 14:03:33,615 - main.py:215 - mylogger - Test item: function9
+2017-07-06 14:03:33,666 - main.py:215 - mylogger - total time： 2.72
+2017-07-06 14:03:33,719 - main.py:215 - mylogger - Test item: function9
+2017-07-06 14:03:33,899 - main.py:215 - mylogger - Test item: function10
+2017-07-06 14:03:34,311 - main.py:215 - mylogger - Test item: function11
+2017-07-06 14:03:34,346 - main.py:215 - mylogger - total time： 3.41
+2017-07-06 14:30:40,777 - login.py:46 - mylogger - Administrator login
+2017-07-06 14:30:57,368 - login.py:46 - mylogger - Administrator login
+2017-07-06 14:35:56,835 - login.py:46 - mylogger - Administrator login
+2017-07-06 14:40:23,114 - login.py:46 - mylogger - Administrator login
+2017-07-06 15:27:35,549 - login.py:46 - mylogger - Administrator login
+2017-07-06 15:36:44,354 - login.py:46 - mylogger - Administrator login
+2017-07-06 15:39:22,719 - login.py:46 - mylogger - Administrator login
+2017-07-06 15:49:17,566 - login.py:46 - mylogger - Administrator login
+2017-07-06 17:47:51,114 - login.py:46 - mylogger - Administrator login

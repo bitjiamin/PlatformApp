@@ -1,0 +1,415 @@
+2017-07-17 09:08:53,966 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:17:49,301 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:17:51,446 - main.py:240 - mylogger - first info message!
+2017-07-17 09:17:51,970 - main.py:240 - mylogger - Test item: function1
+2017-07-17 09:17:52,274 - main.py:240 - mylogger - Test item: function2
+2017-07-17 09:17:52,476 - main.py:240 - mylogger - Test item: function3
+2017-07-17 09:17:52,581 - main.py:240 - mylogger - Test item: function4
+2017-07-17 09:17:52,786 - main.py:240 - mylogger - Test item: function5
+2017-07-17 09:17:53,191 - main.py:240 - mylogger - Test item: function6
+2017-07-17 09:17:53,496 - main.py:240 - mylogger - Test item: function7
+2017-07-17 09:17:53,999 - main.py:240 - mylogger - Test item: function8
+2017-07-17 09:17:54,199 - main.py:240 - mylogger - Test item: function9
+2017-07-17 09:17:54,255 - main.py:240 - mylogger - total time： 2.71
+2017-07-17 09:28:59,643 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:29:01,345 - main.py:246 - mylogger - first info message!
+2017-07-17 09:29:01,860 - main.py:246 - mylogger - Test item: function1
+2017-07-17 09:29:02,169 - main.py:246 - mylogger - Test item: function2
+2017-07-17 09:29:02,372 - main.py:246 - mylogger - Test item: function3
+2017-07-17 09:29:02,476 - main.py:246 - mylogger - Test item: function4
+2017-07-17 09:29:02,514 - main.py:246 - mylogger - total time： 1.10
+2017-07-17 09:29:11,260 - main.py:246 - mylogger - first info message!
+2017-07-17 09:29:11,773 - main.py:246 - mylogger - Test item: function1
+2017-07-17 09:29:12,075 - main.py:246 - mylogger - Test item: function2
+2017-07-17 09:29:12,277 - main.py:246 - mylogger - Test item: function3
+2017-07-17 09:29:12,379 - main.py:246 - mylogger - Test item: function4
+2017-07-17 09:29:12,581 - main.py:246 - mylogger - Test item: function5
+2017-07-17 09:29:12,983 - main.py:246 - mylogger - Test item: function6
+2017-07-17 09:29:13,286 - main.py:246 - mylogger - Test item: function7
+2017-07-17 09:29:13,323 - main.py:246 - mylogger - total time： 2.00
+2017-07-17 09:30:48,932 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:30:50,677 - main.py:237 - mylogger - first info message!
+2017-07-17 09:30:51,198 - main.py:237 - mylogger - Test item: function1
+2017-07-17 09:30:51,498 - main.py:237 - mylogger - Test item: function2
+2017-07-17 09:30:51,702 - main.py:237 - mylogger - Test item: function3
+2017-07-17 09:30:51,812 - main.py:237 - mylogger - Test item: function4
+2017-07-17 09:30:51,850 - main.py:237 - mylogger - total time： 1.10
+2017-07-17 09:32:22,328 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:32:48,413 - main.py:239 - mylogger - first info message!
+2017-07-17 09:32:48,934 - main.py:239 - mylogger - Test item: function1
+2017-07-17 09:32:49,241 - main.py:239 - mylogger - Test item: function2
+2017-07-17 09:32:49,453 - main.py:239 - mylogger - Test item: function3
+2017-07-17 09:32:49,557 - main.py:239 - mylogger - Test item: function4
+2017-07-17 09:32:49,765 - main.py:239 - mylogger - Test item: function5
+2017-07-17 09:32:50,177 - main.py:239 - mylogger - Test item: function6
+2017-07-17 09:32:50,481 - main.py:239 - mylogger - Test item: function7
+2017-07-17 09:32:50,986 - main.py:239 - mylogger - Test item: function8
+2017-07-17 09:32:51,022 - main.py:239 - mylogger - total time： 2.51
+2017-07-17 09:44:56,733 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:44:58,856 - main.py:239 - mylogger - first info message!
+2017-07-17 09:44:59,375 - main.py:239 - mylogger - Test item: function1
+2017-07-17 09:44:59,684 - main.py:239 - mylogger - Test item: function2
+2017-07-17 09:44:59,891 - main.py:239 - mylogger - Test item: function3
+2017-07-17 09:44:59,995 - main.py:239 - mylogger - Test item: function4
+2017-07-17 09:45:00,199 - main.py:239 - mylogger - Test item: function5
+2017-07-17 09:45:00,604 - main.py:239 - mylogger - Test item: function6
+2017-07-17 09:45:00,910 - main.py:239 - mylogger - Test item: function7
+2017-07-17 09:45:00,946 - main.py:239 - mylogger - total time： 2.01
+2017-07-17 09:46:18,703 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:46:20,243 - main.py:239 - mylogger - first info message!
+2017-07-17 09:46:20,762 - main.py:239 - mylogger - Test item: function1
+2017-07-17 09:46:21,067 - main.py:239 - mylogger - Test item: function2
+2017-07-17 09:46:21,278 - main.py:239 - mylogger - Test item: function3
+2017-07-17 09:46:21,383 - main.py:239 - mylogger - Test item: function4
+2017-07-17 09:47:00,933 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:47:02,643 - main.py:239 - mylogger - first info message!
+2017-07-17 09:47:03,164 - main.py:239 - mylogger - Test item: function1
+2017-07-17 09:47:03,465 - main.py:239 - mylogger - Test item: function2
+2017-07-17 09:47:03,668 - main.py:239 - mylogger - Test item: function3
+2017-07-17 09:47:03,771 - main.py:239 - mylogger - Test item: function4
+2017-07-17 09:47:03,976 - main.py:239 - mylogger - Test item: function5
+2017-07-17 09:47:04,377 - main.py:239 - mylogger - Test item: function6
+2017-07-17 09:47:08,209 - main.py:239 - mylogger - Test item: function7
+2017-07-17 09:47:08,714 - main.py:239 - mylogger - Test item: function8
+2017-07-17 09:47:08,918 - main.py:239 - mylogger - Test item: function9
+2017-07-17 09:47:08,964 - main.py:239 - mylogger - total time： 2.70
+2017-07-17 09:47:10,313 - main.py:239 - mylogger - first info message!
+2017-07-17 09:47:10,828 - main.py:239 - mylogger - Test item: function1
+2017-07-17 09:47:11,128 - main.py:239 - mylogger - Test item: function2
+2017-07-17 09:47:11,338 - main.py:239 - mylogger - Test item: function3
+2017-07-17 09:47:11,442 - main.py:239 - mylogger - Test item: function4
+2017-07-17 09:47:11,654 - main.py:239 - mylogger - Test item: function5
+2017-07-17 09:47:11,661 - main.py:239 - mylogger - total time： 1.30
+2017-07-17 09:52:37,159 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:52:39,109 - main.py:240 - mylogger - first info message!
+2017-07-17 09:52:39,628 - main.py:240 - mylogger - Test item: function1
+2017-07-17 09:52:39,937 - main.py:240 - mylogger - Test item: function2
+2017-07-17 09:52:40,149 - main.py:240 - mylogger - Test item: function3
+2017-07-17 09:52:40,271 - main.py:240 - mylogger - Test item: function4
+2017-07-17 09:52:40,277 - main.py:240 - mylogger - total time： 1.11
+2017-07-17 09:52:42,710 - main.py:240 - mylogger - first info message!
+2017-07-17 09:52:43,222 - main.py:240 - mylogger - Test item: function1
+2017-07-17 09:52:43,526 - main.py:240 - mylogger - Test item: function2
+2017-07-17 09:52:43,728 - main.py:240 - mylogger - Test item: function3
+2017-07-17 09:52:43,839 - main.py:240 - mylogger - Test item: function4
+2017-07-17 09:52:44,042 - main.py:240 - mylogger - Test item: function5
+2017-07-17 09:52:44,456 - main.py:240 - mylogger - Test item: function6
+2017-07-17 09:52:44,758 - main.py:240 - mylogger - Test item: function7
+2017-07-17 09:52:44,794 - main.py:240 - mylogger - total time： 2.01
+2017-07-17 09:53:15,702 - main.py:240 - mylogger - first info message!
+2017-07-17 09:53:16,221 - main.py:240 - mylogger - Test item: function1
+2017-07-17 09:53:16,526 - main.py:240 - mylogger - Test item: function2
+2017-07-17 09:53:16,731 - main.py:240 - mylogger - Test item: function3
+2017-07-17 09:53:16,837 - main.py:240 - mylogger - Test item: function4
+2017-07-17 09:53:17,040 - main.py:240 - mylogger - Test item: function5
+2017-07-17 09:53:17,443 - main.py:240 - mylogger - Test item: function6
+2017-07-17 09:53:17,748 - main.py:240 - mylogger - Test item: function7
+2017-07-17 09:53:18,253 - main.py:240 - mylogger - Test item: function8
+2017-07-17 09:53:18,453 - main.py:240 - mylogger - Test item: function9
+2017-07-17 09:53:18,500 - main.py:240 - mylogger - total time： 2.70
+2017-07-17 09:53:58,111 - main.py:240 - mylogger - first info message!
+2017-07-17 09:53:58,633 - main.py:240 - mylogger - Test item: function1
+2017-07-17 09:53:58,934 - main.py:240 - mylogger - Test item: function2
+2017-07-17 09:53:59,140 - main.py:240 - mylogger - Test item: function3
+2017-07-17 09:53:59,243 - main.py:240 - mylogger - Test item: function4
+2017-07-17 09:53:59,454 - main.py:240 - mylogger - Test item: function5
+2017-07-17 09:53:59,859 - main.py:240 - mylogger - Test item: function6
+2017-07-17 09:54:00,169 - main.py:240 - mylogger - Test item: function7
+2017-07-17 09:54:00,682 - main.py:240 - mylogger - Test item: function8
+2017-07-17 09:54:00,892 - main.py:240 - mylogger - Test item: function9
+2017-07-17 09:54:00,938 - main.py:240 - mylogger - total time： 2.70
+2017-07-17 09:55:29,201 - login.py:40 - mylogger - Administrator login
+2017-07-17 09:55:50,608 - main.py:240 - mylogger - first info message!
+2017-07-17 09:55:51,128 - main.py:240 - mylogger - Test item: function1
+2017-07-17 09:55:51,436 - main.py:240 - mylogger - Test item: function2
+2017-07-17 09:55:51,645 - main.py:240 - mylogger - Test item: function3
+2017-07-17 09:55:51,749 - main.py:240 - mylogger - Test item: function4
+2017-07-17 09:55:51,954 - main.py:240 - mylogger - Test item: function5
+2017-07-17 09:55:52,360 - main.py:240 - mylogger - Test item: function6
+2017-07-17 09:55:52,661 - main.py:240 - mylogger - Test item: function7
+2017-07-17 09:55:53,171 - main.py:240 - mylogger - Test item: function8
+2017-07-17 09:55:53,378 - main.py:240 - mylogger - Test item: function9
+2017-07-17 09:55:53,424 - main.py:240 - mylogger - total time： 2.72
+2017-07-17 09:56:01,539 - main.py:240 - mylogger - first info message!
+2017-07-17 09:56:02,060 - main.py:240 - mylogger - Test item: function1
+2017-07-17 09:56:02,363 - main.py:240 - mylogger - Test item: function2
+2017-07-17 09:56:02,574 - main.py:240 - mylogger - Test item: function3
+2017-07-17 09:56:02,679 - main.py:240 - mylogger - Test item: function4
+2017-07-17 09:56:02,884 - main.py:240 - mylogger - Test item: function5
+2017-07-17 09:56:03,296 - main.py:240 - mylogger - Test item: function6
+2017-07-17 09:56:03,609 - main.py:240 - mylogger - Test item: function7
+2017-07-17 09:56:04,119 - main.py:240 - mylogger - Test item: function8
+2017-07-17 09:56:04,321 - main.py:240 - mylogger - Test item: function9
+2017-07-17 09:56:04,367 - main.py:240 - mylogger - total time： 2.72
+2017-07-17 09:56:08,682 - main.py:240 - mylogger - first info message!
+2017-07-17 09:56:09,195 - main.py:240 - mylogger - Test item: function1
+2017-07-17 09:56:09,504 - main.py:240 - mylogger - Test item: function2
+2017-07-17 09:56:09,715 - main.py:240 - mylogger - Test item: function3
+2017-07-17 09:56:09,830 - main.py:240 - mylogger - Test item: function4
+2017-07-17 09:56:10,043 - main.py:240 - mylogger - Test item: function5
+2017-07-17 09:56:10,082 - main.py:240 - mylogger - total time： 1.31
+2017-07-17 10:07:21,053 - main.py:240 - mylogger - first info message!
+2017-07-17 10:07:21,564 - main.py:240 - mylogger - Test item: function1
+2017-07-17 10:07:21,873 - main.py:240 - mylogger - Test item: function2
+2017-07-17 10:07:22,079 - main.py:240 - mylogger - Test item: function3
+2017-07-17 10:07:22,183 - main.py:240 - mylogger - Test item: function4
+2017-07-17 10:07:22,384 - main.py:240 - mylogger - Test item: function5
+2017-07-17 10:07:22,796 - main.py:240 - mylogger - Test item: function6
+2017-07-17 10:07:22,834 - main.py:240 - mylogger - total time： 1.71
+2017-07-17 10:16:25,336 - main.py:240 - mylogger - first info message!
+2017-07-17 10:16:25,849 - main.py:240 - mylogger - Test item: function1
+2017-07-17 10:16:26,159 - main.py:240 - mylogger - Test item: function2
+2017-07-17 10:16:26,367 - main.py:240 - mylogger - Test item: function3
+2017-07-17 10:16:26,472 - main.py:240 - mylogger - Test item: function4
+2017-07-17 10:16:26,683 - main.py:240 - mylogger - Test item: function5
+2017-07-17 10:16:27,090 - main.py:240 - mylogger - Test item: function6
+2017-07-17 10:16:27,399 - main.py:240 - mylogger - Test item: function7
+2017-07-17 10:16:27,910 - main.py:240 - mylogger - Test item: function8
+2017-07-17 10:16:28,119 - main.py:240 - mylogger - Test item: function9
+2017-07-17 10:16:28,165 - main.py:240 - mylogger - total time： 2.72
+2017-07-17 10:17:16,983 - login.py:40 - mylogger - Administrator login
+2017-07-17 10:17:18,246 - main.py:240 - mylogger - first info message!
+2017-07-17 10:17:18,767 - main.py:240 - mylogger - Test item: function1
+2017-07-17 10:17:19,069 - main.py:240 - mylogger - Test item: function2
+2017-07-17 10:17:19,274 - main.py:240 - mylogger - Test item: function3
+2017-07-17 10:17:19,389 - main.py:240 - mylogger - Test item: function4
+2017-07-17 10:17:19,590 - main.py:240 - mylogger - Test item: function5
+2017-07-17 10:17:20,002 - main.py:240 - mylogger - Test item: function6
+2017-07-17 10:17:20,306 - main.py:240 - mylogger - Test item: function7
+2017-07-17 10:17:20,815 - main.py:240 - mylogger - Test item: function8
+2017-07-17 10:17:21,024 - main.py:240 - mylogger - Test item: function9
+2017-07-17 10:17:21,071 - main.py:240 - mylogger - total time： 2.71
+2017-07-17 10:17:21,547 - main.py:240 - mylogger - Test item: function1
+2017-07-17 10:17:21,849 - main.py:240 - mylogger - Test item: function2
+2017-07-17 10:17:22,050 - main.py:240 - mylogger - Test item: function3
+2017-07-17 10:17:22,156 - main.py:240 - mylogger - Test item: function4
+2017-07-17 10:17:22,358 - main.py:240 - mylogger - Test item: function5
+2017-07-17 10:17:22,763 - main.py:240 - mylogger - Test item: function6
+2017-07-17 10:17:23,076 - main.py:240 - mylogger - Test item: function7
+2017-07-17 10:17:23,582 - main.py:240 - mylogger - Test item: function8
+2017-07-17 10:17:23,785 - main.py:240 - mylogger - Test item: function9
+2017-07-17 10:17:23,832 - main.py:240 - mylogger - total time： 2.72
+2017-07-17 10:21:06,916 - login.py:40 - mylogger - Administrator login
+2017-07-17 10:21:41,279 - login.py:40 - mylogger - Administrator login
+2017-07-17 10:22:04,093 - login.py:40 - mylogger - Administrator login
+2017-07-17 10:23:11,649 - login.py:40 - mylogger - Administrator login
+2017-07-17 10:23:13,604 - main.py:246 - mylogger - first info message!
+2017-07-17 10:23:14,125 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:14,426 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:14,627 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:14,730 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:14,938 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:15,342 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:15,650 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:16,154 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:16,367 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:16,409 - main.py:246 - mylogger - total time： 2.70
+2017-07-17 10:23:16,883 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:17,190 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:17,395 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:17,511 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:17,716 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:18,122 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:18,427 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:18,930 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:19,136 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:19,180 - main.py:246 - mylogger - total time： 2.73
+2017-07-17 10:23:19,651 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:19,955 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:20,160 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:20,263 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:20,467 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:20,870 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:21,171 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:21,681 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:21,893 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:21,939 - main.py:246 - mylogger - total time： 2.71
+2017-07-17 10:23:22,410 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:22,718 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:22,927 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:23,033 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:23,238 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:23,639 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:23,945 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:24,449 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:24,658 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:24,702 - main.py:246 - mylogger - total time： 2.71
+2017-07-17 10:23:25,173 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:25,481 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:25,689 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:25,792 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:26,004 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:26,409 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:26,712 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:27,216 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:27,425 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:27,470 - main.py:246 - mylogger - total time： 2.71
+2017-07-17 10:23:27,947 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:28,259 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:28,468 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:28,575 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:28,786 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:29,191 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:29,496 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:30,000 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:30,205 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:30,251 - main.py:246 - mylogger - total time： 2.72
+2017-07-17 10:23:30,724 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:31,030 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:31,235 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:31,350 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:31,554 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:31,958 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:32,265 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:32,768 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:32,977 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:33,025 - main.py:246 - mylogger - total time： 2.74
+2017-07-17 10:23:33,495 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:33,800 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:34,005 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:34,121 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:34,325 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:34,729 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:35,036 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:35,548 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:35,760 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:35,800 - main.py:246 - mylogger - total time： 2.72
+2017-07-17 10:23:36,274 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:36,574 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:36,782 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:36,886 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:37,087 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:37,491 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:37,795 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:38,298 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:38,502 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:38,553 - main.py:246 - mylogger - total time： 2.70
+2017-07-17 10:23:39,015 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:39,320 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:39,525 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:39,628 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:39,833 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:40,245 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:40,550 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:41,053 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:41,259 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:41,306 - main.py:246 - mylogger - total time： 2.73
+2017-07-17 10:23:41,778 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:42,082 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:42,287 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:42,400 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:42,610 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:43,020 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:43,325 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:43,832 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:44,032 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:44,080 - main.py:246 - mylogger - total time： 2.70
+2017-07-17 10:23:44,548 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:44,854 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:45,059 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:45,163 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:45,368 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:45,780 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:46,093 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:46,604 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:46,642 - main.py:246 - mylogger - total time： 2.53
+2017-07-17 10:23:52,513 - main.py:246 - mylogger - first info message!
+2017-07-17 10:23:53,025 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:53,333 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:53,535 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:53,646 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:53,851 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:54,253 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:54,556 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:55,064 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:55,269 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:55,315 - main.py:246 - mylogger - total time： 2.70
+2017-07-17 10:23:55,791 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:56,094 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:56,298 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:56,410 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:56,622 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:57,029 - main.py:246 - mylogger - Test item: function6
+2017-07-17 10:23:57,333 - main.py:246 - mylogger - Test item: function7
+2017-07-17 10:23:57,839 - main.py:246 - mylogger - Test item: function8
+2017-07-17 10:23:58,041 - main.py:246 - mylogger - Test item: function9
+2017-07-17 10:23:58,086 - main.py:246 - mylogger - total time： 2.71
+2017-07-17 10:23:58,553 - main.py:246 - mylogger - Test item: function1
+2017-07-17 10:23:58,861 - main.py:246 - mylogger - Test item: function2
+2017-07-17 10:23:59,065 - main.py:246 - mylogger - Test item: function3
+2017-07-17 10:23:59,178 - main.py:246 - mylogger - Test item: function4
+2017-07-17 10:23:59,388 - main.py:246 - mylogger - Test item: function5
+2017-07-17 10:23:59,395 - main.py:246 - mylogger - total time： 1.30
+2017-07-17 10:48:03,247 - login.py:40 - mylogger - Administrator login
+2017-07-17 10:59:29,017 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:00:14,058 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:01:04,162 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:05:46,882 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:08:26,717 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:09:32,474 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:10:18,367 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:10:30,544 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:10:48,836 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:10:55,964 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:11:05,651 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:14:54,285 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:15:48,590 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:19:47,899 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:22:01,811 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:22:11,670 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:22:32,942 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:23:02,490 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:23:38,635 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:28:23,552 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:28:38,628 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:29:55,965 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:30:04,635 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:32:03,547 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:32:16,288 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:39:18,032 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:39:19,462 - main.py:247 - mylogger - first info message!
+2017-07-17 11:39:50,353 - login.py:40 - mylogger - Administrator login
+2017-07-17 11:39:51,655 - main.py:247 - mylogger - first info message!
+2017-07-17 11:39:52,172 - main.py:247 - mylogger - Test item: function1
+2017-07-17 11:39:52,480 - main.py:247 - mylogger - Test item: function2
+2017-07-17 11:39:52,681 - main.py:247 - mylogger - Test item: function3
+2017-07-17 11:39:52,792 - main.py:247 - mylogger - Test item: function4
+2017-07-17 11:39:52,993 - main.py:247 - mylogger - Test item: function5
+2017-07-17 11:39:53,398 - main.py:247 - mylogger - Test item: function6
+2017-07-17 11:39:53,710 - main.py:247 - mylogger - Test item: function7
+2017-07-17 11:39:54,217 - main.py:247 - mylogger - Test item: function8
+2017-07-17 11:39:54,418 - main.py:247 - mylogger - Test item: function9
+2017-07-17 11:39:54,476 - main.py:247 - mylogger - total time： 2.70
+2017-07-17 11:39:57,913 - main.py:247 - mylogger - first info message!
+2017-07-17 11:39:58,425 - main.py:247 - mylogger - Test item: function1
+2017-07-17 11:39:58,728 - main.py:247 - mylogger - Test item: function2
+2017-07-17 11:39:58,936 - main.py:247 - mylogger - Test item: function3
+2017-07-17 11:39:59,039 - main.py:247 - mylogger - Test item: function4
+2017-07-17 11:39:59,243 - main.py:247 - mylogger - Test item: function5
+2017-07-17 11:39:59,647 - main.py:247 - mylogger - Test item: function6
+2017-07-17 11:39:59,949 - main.py:247 - mylogger - Test item: function7
+2017-07-17 11:40:00,452 - main.py:247 - mylogger - Test item: function8
+2017-07-17 11:40:00,664 - main.py:247 - mylogger - Test item: function9
+2017-07-17 11:40:00,712 - main.py:247 - mylogger - total time： 2.70
+2017-07-17 11:43:51,384 - main.py:247 - mylogger - first info message!
+2017-07-17 11:43:51,897 - main.py:247 - mylogger - Test item: function1
+2017-07-17 11:43:52,197 - main.py:247 - mylogger - Test item: function2
+2017-07-17 11:43:52,402 - main.py:247 - mylogger - Test item: function3
+2017-07-17 11:43:52,512 - main.py:247 - mylogger - Test item: function4
+2017-07-17 11:43:52,716 - main.py:247 - mylogger - Test item: function5
+2017-07-17 11:43:53,125 - main.py:247 - mylogger - Test item: function6
+2017-07-17 11:43:53,437 - main.py:247 - mylogger - Test item: function7
+2017-07-17 11:43:53,940 - main.py:247 - mylogger - Test item: function8
+2017-07-17 11:43:54,143 - main.py:247 - mylogger - Test item: function9
+2017-07-17 11:43:54,189 - main.py:247 - mylogger - total time： 2.70
+2017-07-17 11:43:59,508 - main.py:247 - mylogger - first info message!
+2017-07-17 11:44:00,021 - main.py:247 - mylogger - Test item: function1
+2017-07-17 11:44:00,322 - main.py:247 - mylogger - Test item: function2
+2017-07-17 11:44:00,530 - main.py:247 - mylogger - Test item: function3
+2017-07-17 11:44:00,632 - main.py:247 - mylogger - Test item: function4
+2017-07-17 11:44:00,837 - main.py:247 - mylogger - Test item: function5
+2017-07-17 11:44:01,243 - main.py:247 - mylogger - Test item: function6
+2017-07-17 11:44:01,551 - main.py:247 - mylogger - Test item: function7
+2017-07-17 11:44:02,055 - main.py:247 - mylogger - Test item: function8
+2017-07-17 11:44:02,266 - main.py:247 - mylogger - Test item: function9
+2017-07-17 11:44:02,306 - main.py:247 - mylogger - total time： 2.72

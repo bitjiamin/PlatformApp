@@ -1,0 +1,40 @@
+missing module named 'PyQt5.sip' - imported by /usr/local/lib/python3.6/site-packages/PyInstaller/loader/rthooks/pyi_rth_qt5plugins.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py
+missing module named _winreg - imported by platform, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py
+missing module named java - imported by platform, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py
+missing module named 'java.lang' - imported by platform, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py
+missing module named msvcrt - imported by subprocess, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py, getpass
+missing module named _winapi - imported by subprocess, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py
+missing module named winreg - imported by platform, mimetypes, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py, urllib.request
+missing module named _dummy_threading - imported by dummy_threading, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py
+missing module named nt - imported by os, ntpath, shutil, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py
+missing module named 'org.python' - imported by copy, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py, xml.sax
+missing module named org - imported by pickle, /Users/jiamin/Desktop/Develop/Python/Program/TestSeq/main.py
+missing module named cffi - imported by zmq.utils.interop, zmq.backend.cffi._cffi
+missing module named zmq.backend.constants - imported by zmq.backend, zmq.sugar.constants
+missing module named zmq.backend.strerror - imported by zmq.backend, zmq.error
+missing module named zmq.backend.zmq_errno - imported by zmq.backend, zmq.error
+missing module named gevent - imported by zmq.green.poll, zmq.green.core
+missing module named 'gevent.core' - imported by zmq.green.core
+missing module named 'gevent.hub' - imported by zmq.green.core
+missing module named 'gevent.event' - imported by zmq.green.core
+missing module named cPickle - imported by zmq.sugar.socket
+missing module named cStringIO - imported by cPickle
+missing module named copy_reg - imported by cPickle, cStringIO
+missing module named zmq.backend.Socket - imported by zmq.backend, zmq.sugar.socket
+missing module named pyczmq - imported by zmq.sugar.context
+missing module named zmq.backend.Context - imported by zmq.backend, zmq.sugar.context
+missing module named zmq.backend.Frame - imported by zmq.backend, zmq.sugar.tracker, zmq.sugar.frame
+missing module named zmq.backend.zmq_version_info - imported by zmq.backend, zmq.sugar.version
+missing module named zmq.backend.zmq_poll - imported by zmq.backend, zmq.sugar.poll
+missing module named zmq.zmq_version_info - imported by zmq, zmq.error
+missing module named zmq.zmq_version - imported by zmq, zmq.error
+missing module named zmq.EAGAIN - imported by zmq, zmq.error
+missing module named zmq.ETERM - imported by zmq, zmq.error
+missing module named testscript - imported by testthread
+missing module named 'System.IO' - imported by serial.serialcli
+missing module named System - imported by serial.serialcli
+missing module named win32evtlog - imported by logging.handlers
+missing module named win32evtlogutil - imported by logging.handlers

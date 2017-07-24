@@ -1,0 +1,57 @@
+2017-07-05 09:09:50,081 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:14:37,263 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:15:18,716 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:16:32,908 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:21:34,199 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:29:22,887 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:31:29,821 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:47:14,275 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:50:42,492 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:51:02,713 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:51:39,889 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:53:04,633 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:55:04,900 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:55:40,509 - login.py:31 - mylogger - Administrator login
+2017-07-05 09:56:09,165 - login.py:31 - mylogger - Administrator login
+2017-07-05 10:17:23,013 - login.py:31 - mylogger - Administrator login
+2017-07-05 10:19:07,299 - login.py:31 - mylogger - Administrator login
+2017-07-05 10:21:30,062 - login.py:31 - mylogger - Administrator login
+2017-07-05 10:38:43,230 - login.py:46 - mylogger - Administrator login
+2017-07-05 10:42:39,322 - login.py:46 - mylogger - Administrator login
+2017-07-05 10:42:48,476 - login.py:46 - mylogger - Administrator login
+2017-07-05 10:44:18,254 - login.py:46 - mylogger - Administrator login
+2017-07-05 10:44:18,255 - login.py:46 - mylogger - Administrator login
+2017-07-05 10:44:36,678 - login.py:46 - mylogger - Administrator login
+2017-07-05 10:44:53,342 - login.py:46 - mylogger - Administrator login
+2017-07-05 11:02:02,217 - login.py:46 - mylogger - Administrator login
+2017-07-05 11:08:46,156 - login.py:46 - mylogger - Administrator login
+2017-07-05 11:12:29,879 - login.py:46 - mylogger - Administrator login
+2017-07-05 11:12:39,564 - main.py:211 - mylogger - first info message!
+2017-07-05 11:12:39,815 - main.py:211 - mylogger - Test item: function1
+2017-07-05 11:12:39,857 - main.py:211 - mylogger - Skip item: function2
+2017-07-05 11:12:40,107 - main.py:211 - mylogger - Test item: function1
+2017-07-05 11:12:40,146 - main.py:211 - mylogger - Test item: function3
+2017-07-05 11:12:40,410 - main.py:211 - mylogger - Test item: function2
+2017-07-05 11:12:40,620 - main.py:211 - mylogger - Test item: function3
+2017-07-05 11:12:40,668 - main.py:211 - mylogger - Test item: function4
+2017-07-05 11:12:40,725 - main.py:211 - mylogger - Test item: function4
+2017-07-05 11:12:40,927 - main.py:211 - mylogger - Test item: function5
+2017-07-05 11:12:41,042 - main.py:211 - mylogger - Test item: function5
+2017-07-05 11:12:41,253 - main.py:211 - mylogger - Test item: function6
+2017-07-05 11:12:41,337 - main.py:211 - mylogger - Test item: function6
+2017-07-05 11:12:41,560 - main.py:211 - mylogger - Test item: function7
+2017-07-05 11:12:41,647 - main.py:211 - mylogger - Test item: function7
+2017-07-05 11:12:41,969 - main.py:211 - mylogger - Test item: function8
+2017-07-05 11:12:42,155 - main.py:211 - mylogger - Test item: function8
+2017-07-05 11:12:42,358 - main.py:211 - mylogger - Test item: function9
+2017-07-05 11:12:42,396 - main.py:211 - mylogger - total time： 2.70
+2017-07-05 11:12:42,509 - main.py:211 - mylogger - Test item: function9
+2017-07-05 11:12:42,684 - main.py:211 - mylogger - Test item: function10
+2017-07-05 11:12:43,090 - main.py:211 - mylogger - Test item: function11
+2017-07-05 11:12:43,128 - main.py:211 - mylogger - total time： 3.44
+2017-07-05 11:14:49,562 - login.py:46 - mylogger - Administrator login
+2017-07-05 11:20:18,415 - login.py:46 - mylogger - Administrator login
+2017-07-05 11:22:25,532 - login.py:46 - mylogger - Administrator login
+2017-07-05 12:13:07,667 - login.py:46 - mylogger - Administrator login
+2017-07-05 12:14:09,051 - login.py:46 - mylogger - Administrator login
+2017-07-05 12:14:23,192 - login.py:46 - mylogger - Administrator login
